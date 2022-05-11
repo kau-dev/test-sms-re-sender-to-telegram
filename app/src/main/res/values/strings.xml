@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS re-sender to telegram </string>
+    <string name="failure_permission_sms">Нет прав на получение СМС</string>
+    <string name="permission_not_granted">Права не предоставлены</string>
+
+
+</resources>
